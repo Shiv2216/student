@@ -3,7 +3,7 @@ class Student {
 private final String name;
 private final String program;
 private final int semester;
-private final Map<String, Integer> courses; 
+private final Map<String, Integer> courses;
 public Student(String name, String program, int semester) {
 this.name = name;
 this.program = program;
